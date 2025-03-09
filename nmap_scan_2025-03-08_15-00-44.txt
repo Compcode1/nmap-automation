@@ -1,0 +1,42 @@
+Nmap Scan Results - 2025-03-08_15-00-44
+========================================
+
+✅ Host: 192.168.1.148
+  - Port 5000: rtsp
+  - Port 7000: rtsp
+
+✅ Host: 192.168.1.156
+  - Port 49152: tcpwrapped
+  - Port 62078: tcpwrapped
+
+✅ Host: 192.168.1.180
+❌ No open ports found.
+
+✅ Host: 192.168.1.254
+  - Port 53: domain
+  - Port 80: http
+  - Port 443: http
+
+✅ Host: 192.168.1.84
+  - Port 80: http
+  - Port 7000: rtsp
+  - Port 8008: http
+  - Port 8009: castv2
+  - Port 8443: https-alt
+  - Port 9000: cslistener
+
+✅ Host: 192.168.1.85
+  - Port 80: http
+  - Port 7000: rtsp
+  - Port 8008: http
+  - Port 8009: castv2
+  - Port 8443: https-alt
+  - Port 9000: cslistener
+
+✅ Host: 192.168.1.95
+  - Port 8008: http
+  - Port 8009: ajp13
+  - Port 8443: https-alt
+  - Port 9000: cslistener
+  - Port 10001: scp-config
+  - Port 10002: documentum
